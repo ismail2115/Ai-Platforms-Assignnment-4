@@ -1,5 +1,5 @@
 # ======================================================
-#      ADVANCED FASHION-MNIST CNN (PYTORCH)
+#      FASHION-MNIST CNN (PYTORCH)
 # ======================================================
 
 import torch
