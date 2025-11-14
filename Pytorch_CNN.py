@@ -32,7 +32,7 @@ train_loader = DataLoader(train_data, batch_size=64, shuffle=True)
 test_loader  = DataLoader(test_data, batch_size=64, shuffle=False)
 
 # ===============================
-# 2) Advanced CNN
+# 2) CNN
 # ===============================
 class CNN(nn.Module):
     def __init__(self):
