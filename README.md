@@ -165,13 +165,3 @@ Both scripts compute:
 * This project is great for learning **deep learning**, **CNNs**, or comparing **Keras vs PyTorch** workflows.
 
 ---
-
-# 🤝 **Contributions**
-
-If you want to extend the project with:
-
-* Transfer learning
-* Data augmentation
-* Hyperparameter optimization
-* Vision Transformers
-* AutoML
