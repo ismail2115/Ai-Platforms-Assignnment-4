@@ -1,5 +1,5 @@
 # ======================================================
-#   ADVANCED FASHION-MNIST CNN (KERAS / TENSORFLOW)
+#   FASHION-MNIST CNN (KERAS / TENSORFLOW)
 # ======================================================
 
 import tensorflow as tf
