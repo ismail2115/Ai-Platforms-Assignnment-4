@@ -31,7 +31,7 @@ data_augment = models.Sequential([
 ])
 
 # ===============================
-# 3) Build Advanced CNN
+# 3) Build CNN
 # ===============================
 def build_model():
     model = models.Sequential([
